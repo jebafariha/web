@@ -1,0 +1,315 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+header{
+    background: #ffffff;
+    padding: 5px 0px;
+    width: 100%;
+    float: left;
+    
+}
+.logo{
+    width: 30%;
+    float: left;
+}
+.menu{
+    width: 70%;
+    float: left;
+}
+.menu nav ul{
+    list-style: none;
+    
+    
+}
+.menu nav ul li{
+    display: inline-block; 
+    margin: 10px 10px;
+    
+}
+.menu nav ul li a{
+    color: #a2a2a2;
+    font-size: 15px;
+    text-decoration: none;
+}
+.banner{
+    
+    background-image: url(../image/banner.png);
+    width: 100%;
+    height: 400px;
+    float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.banner h2{
+    font-size: 50px;
+    
+    text-align: center; 
+   
+    color: white;
+    margin-top: 70px;
+    margin-bottom: 16px;
+    
+}
+.banner p{
+    font-size: 30px;
+    color: white;
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+.btn-one{
+    padding: 8px 15px;
+    background-color: #99c50a;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-color: #99c50a;
+    margin-bottom: 30px;
+    
+
+}
+.one{
+    background: #f6f9f9;
+    width: 100%;
+    float: left;
+    
+}
+.one img{
+    display: block;
+    margin: 20px auto;
+
+}
+.one h3{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    text-align: center; 
+   
+    color: black;
+}
+.one p{
+    font-size: 20px;
+    color: #999999;
+    margin-bottom: 40px;
+    text-align: center;
+    
+}
+
+
+
+.service-six-start{
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+
+.service-six{
+    width: 50%;
+    float: left;
+    background: #e2f8ff;
+    
+    
+}
+.service-six-two{
+    width: 50%;
+    float: left;
+    background: #f5f9eb;
+    
+    
+}
+.onee{
+    width 25%;
+    float: right;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.onee h1{
+    
+    color: black;
+    margin: 10px 0px;
+    text-align: center;
+}
+.onee p{
+    
+    color: black;
+    margin: 10px 0px;
+    text-align: center;
+}
+.service-six img{
+    width: 20%;
+    display: block;
+    margin: 20px 30px;
+    float: left;
+    
+}
+.service-six-two img{
+    width: 20%;
+    display: block;
+    margin: 20px 30px;
+    float: left;
+    
+}
+
+
+.oneee{
+    width 20%;
+    float: right;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.oneee h1{
+    
+    color: black;
+    margin: 10px 0px;
+    text-align: center;
+}
+.oneee p{
+    
+    color: black;
+    margin: 10px 0px;
+    text-align: center;
+}
+.btn-two{
+    padding: 8px 15px;
+    background-color: #26a6d1;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-color: #26a6d1;
+    margin-bottom: 30px;
+    
+
+}
+.btn-three{
+    padding: 8px 15px;
+    background-color: #99c50a;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-color: #99c50a;
+    margin-bottom: 30px;
+    
+
+}
+.six{
+    background: #ffffff;
+    padding: 5px 0px;
+    width: 100%;
+    float: left;
+    
+}
+.name{
+    width: 70%;
+    float: left;
+}
+.name h3{
+    text-align: left;
+    color: black;
+    font-size: 30px;
+}
+.name p{
+    text-align: left;
+    color: lightgrey;
+    font-size: 15px;
+}
+.submit{
+    width: 30%;
+    float: left;
+}
+.btn-four{
+    padding: 8px 15px;
+    background-color: transparent;
+    color: lightgray;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-color: lightgray;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+
+}
+.first{
+     width: 100%;
+    float: left;    
+    
+}
+.first-row{
+    width: 33.33%;
+    height: 500px;
+    background: #f9f9f9;
+    float: left;
+    border: green;
+
+}
+.first-row img{
+    width: 90%;
+}
+.first-row h3{
+    text-align: center;
+}
+.firts-row p{
+    
+}
+
+.section-last{
+    width: 100%;
+    float: left;
+    background: white;
+    margin-top: 25px;
+    height: 50px;
+}
+.last{
+     width: 14%;
+    float: left;
+    display: block;
+    margin: 0 auto;
+    
+   
+    
+}
+.last img{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    
+}
+footer{
+    background: #f6f9f9;
+    width: 100%;
+    float: left;
+    
+}
+.copy{
+    width: 46%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: right;
+    color: #999999;
+}
+.fonta{
+    width: 46%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 4px;
+     text-align: left;
+    color: #999999;
+
+}
